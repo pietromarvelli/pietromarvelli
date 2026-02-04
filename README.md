@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Pietro, a 18 years old student, designer and open source developer!</p>
+<p align="left">I am Pietro, a 19 years old engineering student, designer and open source developer!</p>
 
 ###
 
